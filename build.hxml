@@ -1,0 +1,10 @@
+-cp src
+-m Main
+
+-lib heaps
+-lib domkit
+
+-lib hldx
+-lib hlopenal
+
+-hl main.hl
